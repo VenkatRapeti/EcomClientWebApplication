@@ -12,7 +12,7 @@ import {
   Redirect,
 } from "react-router-dom";
 import { useSelector } from "react-redux";
-import { Orders } from "./Pages/Orders";
+import Orders from "./Pages/Orders";
 
 const App = () => {
   const user = useSelector((state) => state.user.currentUser);
