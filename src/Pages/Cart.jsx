@@ -227,7 +227,7 @@ const Cart = () => {
             <Wrapper>
                 <Title>YOUR BAG</Title>
                 <Top>
-                    <Link to={"/"}>
+                    <Link to={"/products"}>
                         <TopButton>CONTINUE SHOPPING</TopButton>
                     </Link>
                     <TopTexts>
