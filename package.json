@@ -1,6 +1,7 @@
 {
   "name": "new",
   "version": "0.1.0",
+   "engineStrict" : true ,
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
