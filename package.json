@@ -1,7 +1,9 @@
 {
   "name": "new",
   "version": "0.1.0",
-   "engineStrict" : true ,
+   "engines": {
+    "node": ">=50.9"
+  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
